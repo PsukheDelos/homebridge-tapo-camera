@@ -1,0 +1,4 @@
+# Request review from the engineering team on all changes.
+# With round-robin code review assignment enabled for the team,
+# GitHub will route each request to an individual team member.
+*   @scannable-io/engineering
